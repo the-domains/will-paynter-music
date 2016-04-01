@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Will Paynter Music]]></title>
         <description><![CDATA[Will Paynter Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/will-paynter-music/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 17:19:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 18:01:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/will-paynter-music/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa27efd0-4318-491a-9d50-381358f1c4ec.jpg">]]></description>
-            <link>undefinedc20ae939-9886-4b2b-9a24-557d391c2529/index.html</link>
+            <link>https://thegrid.ai/will-paynter-music/c20ae939-9886-4b2b-9a24-557d391c2529/index.html</link>
             <guid isPermaLink="false">c20ae939-9886-4b2b-9a24-557d391c2529</guid>
-            <pubDate>Fri, 01 Apr 2016 17:18:58 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2016 18:01:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
