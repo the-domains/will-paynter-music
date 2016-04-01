@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Will Paynter Music]]></title>
+        <description><![CDATA[Will Paynter Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 17:19:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa27efd0-4318-491a-9d50-381358f1c4ec.jpg">]]></description>
+            <link>undefinedc20ae939-9886-4b2b-9a24-557d391c2529/index.html</link>
+            <guid isPermaLink="false">c20ae939-9886-4b2b-9a24-557d391c2529</guid>
+            <pubDate>Fri, 01 Apr 2016 17:18:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
